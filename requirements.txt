@@ -1,2 +1,6 @@
-pandas==1.5.3
-scikit-learn==1.2.2
+pillow
+pickleshare
+numpy
+tensorflow-cpu
+streamlit
+urllib3
